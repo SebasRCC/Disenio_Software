@@ -1,5 +1,8 @@
 package ejercicio4.despues;
-
+/**
+ * 
+ * @author Sebastián Ramos
+ */
 public class Human implements Worker, Eat {
 
     @Override

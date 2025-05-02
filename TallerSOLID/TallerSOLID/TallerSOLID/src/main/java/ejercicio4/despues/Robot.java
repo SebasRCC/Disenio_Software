@@ -1,5 +1,8 @@
 package ejercicio4.despues;
-
+/**
+ * 
+ * @author Sebastián Ramos
+ */
 public class Robot implements Worker {
 
     @Override
