@@ -1,4 +1,8 @@
 package ejercicio3.despues;
+/**
+ *
+ * @author Sebastián Ramos
+ */
 
 public class Ostrich extends Bird {
    @Override

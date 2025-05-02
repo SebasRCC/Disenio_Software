@@ -1,4 +1,8 @@
 package ejercicio3.despues;
+/**
+ *
+ * @author Sebastián Ramos
+ */
 
 public class GuacamayoAzul  extends Bird implements Fly {
     @Override
