@@ -1,5 +1,8 @@
 package ejercicio6.despues;
-
+/**
+ * 
+ * @author Sebastián Ramos
+ */
 public class Ps4ControllerInput implements InputDevice {
     @Override
     public void getInput() {

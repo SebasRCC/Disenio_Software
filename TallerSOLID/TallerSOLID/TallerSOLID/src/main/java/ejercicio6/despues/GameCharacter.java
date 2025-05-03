@@ -1,5 +1,8 @@
 package ejercicio6.despues;
-
+/**
+ * 
+ * @author Sebastián Ramos
+ */
 public class GameCharacter {
     private InputDevice input;
 
